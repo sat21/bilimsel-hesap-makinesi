@@ -575,7 +575,7 @@
             buttonTemizle.Name = "buttonTemizle";
             buttonTemizle.Size = new Size(203, 100);
             buttonTemizle.TabIndex = 33;
-            buttonTemizle.Text = "\U0001f9f9temizle";
+            buttonTemizle.Text = "    geçmişi  \U0001f9f9temizle";
             buttonTemizle.UseVisualStyleBackColor = true;
             buttonTemizle.Click += buttonTemizle_Click;
             // 
