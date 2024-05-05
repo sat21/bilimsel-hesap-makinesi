@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
+      "projectUniqueName": "C:\\Users\\tasse\\Source\\Repos\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
       "projectName": "bilimsel hesap makinesi",
-      "projectPath": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
+      "projectPath": "C:\\Users\\tasse\\Source\\Repos\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
       "packagesPath": "C:\\Users\\tasse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\obj\\",
+      "outputPath": "C:\\Users\\tasse\\Source\\Repos\\bilimsel-hesap-makinesi\\WinFormsApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tasse\\AppData\\Roaming\\NuGet\\NuGet.Config",

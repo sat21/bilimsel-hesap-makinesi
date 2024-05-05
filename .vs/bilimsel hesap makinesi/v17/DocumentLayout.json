@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\",
+  "WorkspaceRootPath": "C:\\Users\\tasse\\source\\repos\\bilimsel-hesap-makinesi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC258E43-D4A6-4DD4-BA2C-15F0CD32F544}|WinFormsApp2\\bilimsel hesap makinesi.csproj|c:\\users\\tasse\\onedrive\\belgeler\\github\\bilimsel-hesap-makinesi\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AC258E43-D4A6-4DD4-BA2C-15F0CD32F544}|WinFormsApp2\\bilimsel hesap makinesi.csproj|c:\\users\\tasse\\source\\repos\\bilimsel-hesap-makinesi\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AC258E43-D4A6-4DD4-BA2C-15F0CD32F544}|WinFormsApp2\\bilimsel hesap makinesi.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC258E43-D4A6-4DD4-BA2C-15F0CD32F544}|WinFormsApp2\\bilimsel hesap makinesi.csproj|c:\\users\\tasse\\onedrive\\belgeler\\github\\bilimsel-hesap-makinesi\\winformsapp2\\bilimsel hesap makinesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AC258E43-D4A6-4DD4-BA2C-15F0CD32F544}|WinFormsApp2\\bilimsel hesap makinesi.csproj|c:\\users\\tasse\\source\\repos\\bilimsel-hesap-makinesi\\winformsapp2\\bilimsel hesap makinesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AC258E43-D4A6-4DD4-BA2C-15F0CD32F544}|WinFormsApp2\\bilimsel hesap makinesi.csproj|solutionrelative:winformsapp2\\bilimsel hesap makinesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tasse\\source\\repos\\bilimsel-hesap-makinesi\\WinFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
-              "ToolTip": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\Form1.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\tasse\\source\\repos\\bilimsel-hesap-makinesi\\WinFormsApp2\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "WinFormsApp2\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T12:11:43.842Z",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "bilimsel hesap makinesi.csproj",
-              "DocumentMoniker": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
+              "DocumentMoniker": "C:\\Users\\tasse\\source\\repos\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
               "RelativeDocumentMoniker": "WinFormsApp2\\bilimsel hesap makinesi.csproj",
-              "ToolTip": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
+              "ToolTip": "C:\\Users\\tasse\\source\\repos\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
               "RelativeToolTip": "WinFormsApp2\\bilimsel hesap makinesi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

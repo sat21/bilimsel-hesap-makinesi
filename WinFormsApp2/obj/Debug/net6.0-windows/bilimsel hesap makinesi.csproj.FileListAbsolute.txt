@@ -50,3 +50,21 @@ C:\Users\tasse\OneDrive\Belgeler\GitHub\bilimsel-hesap-makinesi\WinFormsApp2\obj
 C:\Users\tasse\OneDrive\Belgeler\GitHub\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.pdb
 C:\Users\tasse\OneDrive\Belgeler\GitHub\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.genruntimeconfig.cache
 C:\Users\tasse\OneDrive\Belgeler\GitHub\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\ref\bilimsel hesap makinesi.dll
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.exe
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.deps.json
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.runtimeconfig.json
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.dll
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.pdb
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel_hesap_makinesi.Properties.Resources.resources
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.csproj.GenerateResource.cache
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.AssemblyInfo.cs
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.sourcelink.json
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.dll
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\refint\bilimsel hesap makinesi.dll
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.pdb
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.genruntimeconfig.cache
+C:\Users\tasse\Source\Repos\bilimsel-hesap-makinesi\WinFormsApp2\obj\Debug\net6.0-windows\ref\bilimsel hesap makinesi.dll
