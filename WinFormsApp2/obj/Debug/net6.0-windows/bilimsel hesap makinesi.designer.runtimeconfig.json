@@ -10,6 +10,13 @@
         "name": "Microsoft.WindowsDesktop.App",
         "version": "6.0.0"
       }
-    ]
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\tasse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tasse\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
   }
 }

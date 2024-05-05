@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = bilimsel_hesap_makinesi
-build_property.ProjectDir = D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\
+build_property.ProjectDir = C:\Users\tasse\OneDrive\Belgeler\GitHub\bilimsel-hesap-makinesi\WinFormsApp2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJECTS\\c# projects\\212701064_SeyitAhmetTaş_Etkinlik\\WinFormsApp2\\WinFormsApp2\\bilimsel hesap makinesi.csproj": {}
+    "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj": {}
   },
   "projects": {
-    "D:\\PROJECTS\\c# projects\\212701064_SeyitAhmetTaş_Etkinlik\\WinFormsApp2\\WinFormsApp2\\bilimsel hesap makinesi.csproj": {
+    "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJECTS\\c# projects\\212701064_SeyitAhmetTaş_Etkinlik\\WinFormsApp2\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
+        "projectUniqueName": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
         "projectName": "bilimsel hesap makinesi",
-        "projectPath": "D:\\PROJECTS\\c# projects\\212701064_SeyitAhmetTaş_Etkinlik\\WinFormsApp2\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
+        "projectPath": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\bilimsel hesap makinesi.csproj",
         "packagesPath": "C:\\Users\\tasse\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJECTS\\c# projects\\212701064_SeyitAhmetTaş_Etkinlik\\WinFormsApp2\\WinFormsApp2\\obj\\",
+        "outputPath": "C:\\Users\\tasse\\OneDrive\\Belgeler\\GitHub\\bilimsel-hesap-makinesi\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tasse\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -61,6 +61,7 @@
             labelSayi2 = new Label();
             labelSonuc = new Label();
             groupBoxHesaplama = new GroupBox();
+            label5 = new Label();
             txt_cevir = new Label();
             label4 = new Label();
             label3 = new Label();
@@ -442,6 +443,7 @@
             // 
             // groupBoxHesaplama
             // 
+            groupBoxHesaplama.Controls.Add(label5);
             groupBoxHesaplama.Controls.Add(txt_cevir);
             groupBoxHesaplama.Controls.Add(label4);
             groupBoxHesaplama.Controls.Add(label3);
@@ -487,13 +489,23 @@
             groupBoxHesaplama.Text = "Hesaplama";
             groupBoxHesaplama.Enter += groupBoxHesaplama_Enter;
             // 
+            // label5
+            // 
+            label5.Font = new Font("Montserrat Medium", 10.2F, FontStyle.Bold, GraphicsUnit.Point);
+            label5.Location = new Point(324, 111);
+            label5.Margin = new Padding(2, 0, 2, 0);
+            label5.Name = "label5";
+            label5.Size = new Size(126, 25);
+            label5.TabIndex = 48;
+            label5.Text = "roma rakamı =";
+            // 
             // txt_cevir
             // 
             txt_cevir.Font = new Font("Montserrat Medium", 10.2F, FontStyle.Bold, GraphicsUnit.Point);
-            txt_cevir.Location = new Point(324, 111);
+            txt_cevir.Location = new Point(454, 111);
             txt_cevir.Margin = new Padding(2, 0, 2, 0);
             txt_cevir.Name = "txt_cevir";
-            txt_cevir.Size = new Size(311, 25);
+            txt_cevir.Size = new Size(181, 25);
             txt_cevir.TabIndex = 47;
             txt_cevir.Click += label5_Click_1;
             // 
@@ -659,5 +671,6 @@
         private Button buttonTemizle;
         private Label txt_cevir;
         private PictureBox pictureBox1;
+        private Label label5;
     }
 }

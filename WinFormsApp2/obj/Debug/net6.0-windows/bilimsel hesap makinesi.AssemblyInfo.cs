@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bilimsel hesap makinesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fefc41644c09755017237ec505eb0bbdd2e2d947")]
 [assembly: System.Reflection.AssemblyProductAttribute("bilimsel hesap makinesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bilimsel hesap makinesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
