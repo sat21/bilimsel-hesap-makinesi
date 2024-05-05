@@ -1,0 +1,17 @@
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.exe
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.deps.json
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.runtimeconfig.json
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.dll
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\bilimsel hesap makinesi.pdb
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel_hesap_makinesi.Properties.Resources.resources
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.csproj.GenerateResource.cache
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.AssemblyInfoInputs.cache
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.AssemblyInfo.cs
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.csproj.CoreCompileInputs.cache
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.dll
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\bilimsel hesap makinesi.dll
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.pdb
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\bilimsel hesap makinesi.genruntimeconfig.cache
+D:\PROJECTS\c# projects\212701064_SeyitAhmetTaş_Etkinlik\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\bilimsel hesap makinesi.dll
